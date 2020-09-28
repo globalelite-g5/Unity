@@ -90,6 +90,16 @@ body {
 }
 
 @media (max-width: 768px) {
+  
+  .caption {
+    position: absolute;
+    top: 90%;
+    bottom: 38%;
+    width: 100%;
+    left: 5%;
+    color: white;
+  }
+  
   .caption h1 {
     font-size: 1.4rem;
     letter-spacing: .15rem; 
