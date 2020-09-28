@@ -10,6 +10,10 @@ body {
   background: rgba(0, 0, 0, 0.6);
 }
 
+.navbar-brand {
+  width: 100%;
+}
+
 .navbar-brand img {
   height: 2rem;
 }
@@ -36,7 +40,7 @@ body {
   top: 85%;
   bottom: 38%;
   width: 100%;
-  left: 5%;
+  left: 3%;
   color: white;
 }
 .caption h1 {
